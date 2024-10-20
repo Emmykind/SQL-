@@ -4,21 +4,22 @@
 - Excel – Data Cleaning 
 - SQL – Data Analysis 
 - PowerBI – Creating Reports
-
 [Download here](https://Microsoft.com)
 
-# Data Cleaning/ Preparation 
+# Data Cleaning/Preparation 
 ## in the initial data preparation phase. We performed the following tasks
 1.	Data loading and inspection 
 2.	Handling missing values
 3.	Data cleaning and formatting 
+
 # Exploration Data Analysis (EDA)
 ## EDA involved exploring the sales data to answer question, such as 
 -	What is the overall sales trend?
 -	Which products are top seller?
 -	What are the peak sales periods?
+
 # Data Analysis 
-## include some interesting code/ features worked with
+## include some interesting code/features worked with
 
 ~~~ SQL
 Select*from table1
@@ -38,6 +39,7 @@ Where cond = 2; ~~~
 
 # Limitation 
 ## I have to remove all zeros value from budget and revenue column because they would have affected the accuracy of my conclusions from the analysis. There are still a few outlines even after commissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue.
+
 # References
 1.	SQL for business by warty
 2.	[Stock-Overflow] (https://stack.com)
