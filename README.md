@@ -1,6 +1,6 @@
-#project overview 
-#Data Sources 
-#Tools
+# project overview 
+# Data Sources 
+# Tools
 . Excel – Data Cleaning 
 . SQL – Data Analysis 
 . PowerBI – Creating Reports 
