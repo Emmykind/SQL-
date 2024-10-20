@@ -1,12 +1,12 @@
 # project overview 
 # Data Sources 
 # Tools
-. Excel – Data Cleaning 
-. SQL – Data Analysis 
-. PowerBI – Creating Reports 
+- Excel – Data Cleaning 
+- SQL – Data Analysis 
+- PowerBI – Creating Reports 
 [Download here] (https://Microsoft .com)
 # Data Cleaning/ Preparation 
-## in the initial data preparation phase . We performed the following tasks
+## in the initial data preparation phase. We performed the following tasks
 1.	Data loading and inspection 
 2.	Handling missing values
 3.	Data cleaning and formatting 
