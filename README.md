@@ -5,7 +5,8 @@
 - SQL – Data Analysis 
 - PowerBI – Creating Reports
 
-[Download here] (https://Microsoft .com)
+[Download here](https://Microsoft.com)
+
 # Data Cleaning/ Preparation 
 ## in the initial data preparation phase. We performed the following tasks
 1.	Data loading and inspection 
