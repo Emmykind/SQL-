@@ -3,7 +3,8 @@
 # Tools
 - Excel – Data Cleaning 
 - SQL – Data Analysis 
-- PowerBI – Creating Reports 
+- PowerBI – Creating Reports
+
 [Download here] (https://Microsoft .com)
 # Data Cleaning/ Preparation 
 ## in the initial data preparation phase. We performed the following tasks
@@ -17,6 +18,7 @@
 -	What are the peak sales periods?
 # Data Analysis 
 ## include some interesting code/ features worked with
+
 ~~~ SQL
 Select*from table1
 Where cond = 2; ~~~
